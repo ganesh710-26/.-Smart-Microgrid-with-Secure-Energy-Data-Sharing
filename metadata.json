@@ -1,0 +1,5 @@
+
+{
+  "name": "Microgrid Blockchain Simulator",
+  "description": "An interactive dashboard that simulates a microgrid with Solar, Battery, Load, and Grid nodes. It uses a mini-blockchain to securely log and verify energy data, demonstrating tamper-detection."
+}
